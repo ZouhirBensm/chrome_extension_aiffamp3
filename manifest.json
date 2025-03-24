@@ -4,7 +4,13 @@
   "version": "1.0",
   "description": "AIFF to MP3 converter convertisseur AIFF à MP3",
   "action": {
-    "default_popup": "webpage2.html"
+    "default_popup": "webpage2.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
   },
  "host_permissions": [
     "https://aiffamp3.com/*"

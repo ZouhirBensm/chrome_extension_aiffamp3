@@ -7,7 +7,6 @@
     "default_popup": "webpage2.html"
   },
  "host_permissions": [
-    "https://aiffamp3.com/*",
-    "http://localhost:3007/*"
+    "https://aiffamp3.com/*"
   ]
 }

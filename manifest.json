@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "AIFF to MP3 converter convertisseur AIFF à MP3",
+  "version": "1.0",
+  "description": "AIFF to MP3 converter convertisseur AIFF à MP3",
+  "action": {
+    "default_popup": "webpage2.html"
+  },
+  "permissions": []
+}
